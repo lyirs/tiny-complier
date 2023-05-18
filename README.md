@@ -1,7 +1,9 @@
 https://github.com/jamiebuilds/the-super-tiny-compiler
+
 tiny-complier
 
 ```
+pnpm i
 pnpm test
 ```
 
